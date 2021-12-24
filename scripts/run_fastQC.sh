@@ -10,7 +10,7 @@
 #SBATCH --error=/data/courses/rnaseq/breastcancer_de/swu_workspace/QCres/error_QC_%j.e
 
 
-source /data/users/lfalquet/SBC07107_21/scripts/module.sh
+source /data/users/swu/module.sh
 
 cd /data/courses/rnaseq/breastcancer_de/swu_workspace/QCres
 

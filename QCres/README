@@ -1,0 +1,7 @@
+Since the sequencing was done in paired-end mode, there are 2 files per sample, for read 1 and read 2 respectively.
+There are 4 experimental groups with 3 replicates each. 
+Normal: Healthy controls
+TNBC: Triple negative breast cancer
+NonTNBC: Non triple negative breast cancer
+HER2: HER2 positive breast cancer
+The replicate is indicated by the number directly following the experimental group info. For example, HER21 is replicate 1 in group HER2 etc.

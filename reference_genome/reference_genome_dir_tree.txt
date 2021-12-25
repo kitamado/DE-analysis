@@ -1,0 +1,18 @@
+.
+├── error_hisat2index_7412135.e
+├── hisat2_index
+│   ├── GRCh38.1.ht2
+│   ├── GRCh38.2.ht2
+│   ├── GRCh38.3.ht2
+│   ├── GRCh38.4.ht2
+│   ├── GRCh38.5.ht2
+│   ├── GRCh38.6.ht2
+│   ├── GRCh38.7.ht2
+│   └── GRCh38.8.ht2
+├── Homo_sapiens.GRCh38.104.gtf
+├── Homo_sapiens.GRCh38.dna.primary_assembly.fa
+├── output_hisat2index_7412135.o
+├── README.txt
+└── reference_genome_dir_tree.txt
+
+1 directory, 14 files

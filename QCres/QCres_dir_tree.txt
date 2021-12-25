@@ -1,0 +1,86 @@
+.
+├── error_QC_7412133.e
+├── HER21_R1_fastqc.html
+├── HER21_R1_fastqc.zip
+├── HER21_R1.fastq.gz -> /data/courses/rnaseq/breastcancer_de/reads/HER21_R1.fastq.gz
+├── HER21_R2_fastqc.html
+├── HER21_R2_fastqc.zip
+├── HER21_R2.fastq.gz -> /data/courses/rnaseq/breastcancer_de/reads/HER21_R2.fastq.gz
+├── HER22_R1_fastqc.html
+├── HER22_R1_fastqc.zip
+├── HER22_R1.fastq.gz -> /data/courses/rnaseq/breastcancer_de/reads/HER22_R1.fastq.gz
+├── HER22_R2_fastqc.html
+├── HER22_R2_fastqc.zip
+├── HER22_R2.fastq.gz -> /data/courses/rnaseq/breastcancer_de/reads/HER22_R2.fastq.gz
+├── HER23_R1_fastqc.html
+├── HER23_R1_fastqc.zip
+├── HER23_R1.fastq.gz -> /data/courses/rnaseq/breastcancer_de/reads/HER23_R1.fastq.gz
+├── HER23_R2_fastqc.html
+├── HER23_R2_fastqc.zip
+├── HER23_R2.fastq.gz -> /data/courses/rnaseq/breastcancer_de/reads/HER23_R2.fastq.gz
+├── multiqc_data
+│   ├── multiqc_data.json
+│   ├── multiqc_fastqc.txt
+│   ├── multiqc_general_stats.txt
+│   ├── multiqc.log
+│   ├── multiqc_qualimap_bamqc_genome_results.txt
+│   └── multiqc_sources.txt
+├── multiqc_report.html
+├── NonTNBC1_R1_fastqc.html
+├── NonTNBC1_R1_fastqc.zip
+├── NonTNBC1_R1.fastq.gz -> /data/courses/rnaseq/breastcancer_de/reads/NonTNBC1_R1.fastq.gz
+├── NonTNBC1_R2_fastqc.html
+├── NonTNBC1_R2_fastqc.zip
+├── NonTNBC1_R2.fastq.gz -> /data/courses/rnaseq/breastcancer_de/reads/NonTNBC1_R2.fastq.gz
+├── NonTNBC2_R1_fastqc.html
+├── NonTNBC2_R1_fastqc.zip
+├── NonTNBC2_R1.fastq.gz -> /data/courses/rnaseq/breastcancer_de/reads/NonTNBC2_R1.fastq.gz
+├── NonTNBC2_R2_fastqc.html
+├── NonTNBC2_R2_fastqc.zip
+├── NonTNBC2_R2.fastq.gz -> /data/courses/rnaseq/breastcancer_de/reads/NonTNBC2_R2.fastq.gz
+├── NonTNBC3_R1_fastqc.html
+├── NonTNBC3_R1_fastqc.zip
+├── NonTNBC3_R1.fastq.gz -> /data/courses/rnaseq/breastcancer_de/reads/NonTNBC3_R1.fastq.gz
+├── NonTNBC3_R2_fastqc.html
+├── NonTNBC3_R2_fastqc.zip
+├── NonTNBC3_R2.fastq.gz -> /data/courses/rnaseq/breastcancer_de/reads/NonTNBC3_R2.fastq.gz
+├── Normal1_R1_fastqc.html
+├── Normal1_R1_fastqc.zip
+├── Normal1_R1.fastq.gz -> /data/courses/rnaseq/breastcancer_de/reads/Normal1_R1.fastq.gz
+├── Normal1_R2_fastqc.html
+├── Normal1_R2_fastqc.zip
+├── Normal1_R2.fastq.gz -> /data/courses/rnaseq/breastcancer_de/reads/Normal1_R2.fastq.gz
+├── Normal2_R1_fastqc.html
+├── Normal2_R1_fastqc.zip
+├── Normal2_R1.fastq.gz -> /data/courses/rnaseq/breastcancer_de/reads/Normal2_R1.fastq.gz
+├── Normal2_R2_fastqc.html
+├── Normal2_R2_fastqc.zip
+├── Normal2_R2.fastq.gz -> /data/courses/rnaseq/breastcancer_de/reads/Normal2_R2.fastq.gz
+├── Normal3_R1_fastqc.html
+├── Normal3_R1_fastqc.zip
+├── Normal3_R1.fastq.gz -> /data/courses/rnaseq/breastcancer_de/reads/Normal3_R1.fastq.gz
+├── Normal3_R2_fastqc.html
+├── Normal3_R2_fastqc.zip
+├── Normal3_R2.fastq.gz -> /data/courses/rnaseq/breastcancer_de/reads/Normal3_R2.fastq.gz
+├── output_QC_7412133.o
+├── QCres_dir_tree.txt
+├── TNBC1_R1_fastqc.html
+├── TNBC1_R1_fastqc.zip
+├── TNBC1_R1.fastq.gz -> /data/courses/rnaseq/breastcancer_de/reads/TNBC1_R1.fastq.gz
+├── TNBC1_R2_fastqc.html
+├── TNBC1_R2_fastqc.zip
+├── TNBC1_R2.fastq.gz -> /data/courses/rnaseq/breastcancer_de/reads/TNBC1_R2.fastq.gz
+├── TNBC2_R1_fastqc.html
+├── TNBC2_R1_fastqc.zip
+├── TNBC2_R1.fastq.gz -> /data/courses/rnaseq/breastcancer_de/reads/TNBC2_R1.fastq.gz
+├── TNBC2_R2_fastqc.html
+├── TNBC2_R2_fastqc.zip
+├── TNBC2_R2.fastq.gz -> /data/courses/rnaseq/breastcancer_de/reads/TNBC2_R2.fastq.gz
+├── TNBC3_R1_fastqc.html
+├── TNBC3_R1_fastqc.zip
+├── TNBC3_R1.fastq.gz -> /data/courses/rnaseq/breastcancer_de/reads/TNBC3_R1.fastq.gz
+├── TNBC3_R2_fastqc.html
+├── TNBC3_R2_fastqc.zip
+└── TNBC3_R2.fastq.gz -> /data/courses/rnaseq/breastcancer_de/reads/TNBC3_R2.fastq.gz
+
+1 directory, 82 files

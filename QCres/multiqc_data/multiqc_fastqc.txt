@@ -1,0 +1,25 @@
+Sample	adapter_content	Sequences flagged as poor quality	sequence_duplication_levels	avg_sequence_length	Encoding	per_base_sequence_quality	sequence_length_distribution	Sequence length	File type	basic_statistics	per_sequence_gc_content	Total Sequences	per_base_n_content	per_base_sequence_content	overrepresented_sequences	%GC	total_deduplicated_percentage	Filename	per_sequence_quality_scores
+HER21_R1	pass	0.0	fail	60.0	Sanger / Illumina 1.9	pass	pass	60.0	Conventional base calls	pass	fail	61247419.0	pass	warn	warn	54.0	31.2676979479	HER21_R1.fastq.gz	pass
+HER21_R2	pass	0.0	fail	60.0	Sanger / Illumina 1.9	pass	pass	60.0	Conventional base calls	pass	fail	61247419.0	pass	warn	warn	54.0	34.1373166044	HER21_R2.fastq.gz	pass
+HER22_R1	pass	0.0	fail	60.0	Sanger / Illumina 1.9	pass	pass	60.0	Conventional base calls	pass	warn	68888018.0	pass	warn	warn	52.0	38.5090954745	HER22_R1.fastq.gz	pass
+HER22_R2	pass	0.0	fail	60.0	Sanger / Illumina 1.9	fail	pass	60.0	Conventional base calls	pass	fail	68888018.0	pass	warn	warn	53.0	43.7017251708	HER22_R2.fastq.gz	pass
+HER23_R1	pass	0.0	fail	60.0	Sanger / Illumina 1.9	pass	pass	60.0	Conventional base calls	pass	fail	52010599.0	pass	warn	warn	54.0	34.4877835478	HER23_R1.fastq.gz	pass
+HER23_R2	pass	0.0	fail	60.0	Sanger / Illumina 1.9	pass	pass	60.0	Conventional base calls	pass	fail	52010599.0	pass	warn	warn	54.0	39.4388569321	HER23_R2.fastq.gz	pass
+NonTNBC1_R1	pass	0.0	fail	60.0	Sanger / Illumina 1.9	pass	pass	60.0	Conventional base calls	pass	pass	64355558.0	pass	fail	warn	53.0	34.6657766843	NonTNBC1_R1.fastq.gz	pass
+NonTNBC1_R2	pass	0.0	fail	60.0	Sanger / Illumina 1.9	pass	pass	60.0	Conventional base calls	pass	warn	64355558.0	pass	fail	warn	54.0	38.1178279135	NonTNBC1_R2.fastq.gz	pass
+NonTNBC2_R1	pass	0.0	fail	60.0	Sanger / Illumina 1.9	pass	pass	60.0	Conventional base calls	pass	pass	51565654.0	pass	fail	warn	54.0	38.5144239236	NonTNBC2_R1.fastq.gz	pass
+NonTNBC2_R2	pass	0.0	fail	60.0	Sanger / Illumina 1.9	pass	pass	60.0	Conventional base calls	pass	fail	51565654.0	pass	fail	warn	55.0	41.8260775334	NonTNBC2_R2.fastq.gz	pass
+NonTNBC3_R1	pass	0.0	fail	60.0	Sanger / Illumina 1.9	pass	pass	60.0	Conventional base calls	pass	fail	55701488.0	pass	fail	warn	54.0	37.6960921768	NonTNBC3_R1.fastq.gz	pass
+NonTNBC3_R2	pass	0.0	fail	60.0	Sanger / Illumina 1.9	pass	pass	60.0	Conventional base calls	pass	fail	55701488.0	pass	fail	warn	55.0	40.7707589009	NonTNBC3_R2.fastq.gz	pass
+Normal1_R1	pass	0.0	warn	75.0	Sanger / Illumina 1.9	pass	pass	75.0	Conventional base calls	pass	pass	15886336.0	pass	fail	pass	51.0	54.4355289947	Normal1_R1.fastq.gz	pass
+Normal1_R2	pass	0.0	warn	75.0	Sanger / Illumina 1.9	pass	pass	75.0	Conventional base calls	pass	pass	15886336.0	pass	fail	pass	51.0	55.4959258266	Normal1_R2.fastq.gz	pass
+Normal2_R1	pass	0.0	warn	75.0	Sanger / Illumina 1.9	pass	pass	75.0	Conventional base calls	pass	pass	32900696.0	pass	fail	pass	50.0	53.7175454219	Normal2_R1.fastq.gz	pass
+Normal2_R2	pass	0.0	warn	75.0	Sanger / Illumina 1.9	pass	pass	75.0	Conventional base calls	pass	pass	32900696.0	pass	fail	pass	50.0	55.0410875406	Normal2_R2.fastq.gz	pass
+Normal3_R1	pass	0.0	warn	75.0	Sanger / Illumina 1.9	pass	pass	75.0	Conventional base calls	pass	pass	37178138.0	pass	fail	pass	49.0	50.5778062075	Normal3_R1.fastq.gz	pass
+Normal3_R2	pass	0.0	warn	75.0	Sanger / Illumina 1.9	pass	pass	75.0	Conventional base calls	pass	pass	37178138.0	pass	fail	pass	49.0	51.6004043142	Normal3_R2.fastq.gz	pass
+TNBC1_R1	pass	0.0	warn	60.0	Sanger / Illumina 1.9	pass	pass	60.0	Conventional base calls	pass	warn	44434722.0	pass	fail	warn	52.0	52.3781532917	TNBC1_R1.fastq.gz	pass
+TNBC1_R2	pass	0.0	warn	60.0	Sanger / Illumina 1.9	pass	pass	60.0	Conventional base calls	pass	warn	44434722.0	pass	fail	warn	52.0	56.4054504216	TNBC1_R2.fastq.gz	pass
+TNBC2_R1	pass	0.0	fail	60.0	Sanger / Illumina 1.9	pass	pass	60.0	Conventional base calls	pass	pass	45663946.0	pass	fail	warn	56.0	33.9375628074	TNBC2_R1.fastq.gz	pass
+TNBC2_R2	pass	0.0	fail	60.0	Sanger / Illumina 1.9	pass	pass	60.0	Conventional base calls	pass	warn	45663946.0	pass	fail	warn	57.0	38.6944954079	TNBC2_R2.fastq.gz	pass
+TNBC3_R1	pass	0.0	fail	60.0	Sanger / Illumina 1.9	pass	pass	60.0	Conventional base calls	pass	pass	48256786.0	pass	fail	fail	55.0	32.9723091243	TNBC3_R1.fastq.gz	pass
+TNBC3_R2	pass	0.0	fail	60.0	Sanger / Illumina 1.9	pass	pass	60.0	Conventional base calls	pass	warn	48256786.0	pass	fail	warn	57.0	40.4295121364	TNBC3_R2.fastq.gz	pass

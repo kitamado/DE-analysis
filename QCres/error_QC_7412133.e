@@ -468,3 +468,24 @@ Approx 30% complete for TNBC3_R2.fastq.gz
 Approx 35% complete for TNBC3_R2.fastq.gz
 Approx 40% complete for TNBC3_R2.fastq.gz
 Approx 45% complete for TNBC3_R2.fastq.gz
+Approx 50% complete for TNBC3_R2.fastq.gz
+Approx 55% complete for TNBC3_R2.fastq.gz
+Approx 60% complete for TNBC3_R2.fastq.gz
+Approx 65% complete for TNBC3_R2.fastq.gz
+Approx 70% complete for TNBC3_R2.fastq.gz
+Approx 75% complete for TNBC3_R2.fastq.gz
+Approx 80% complete for TNBC3_R2.fastq.gz
+Approx 85% complete for TNBC3_R2.fastq.gz
+Approx 90% complete for TNBC3_R2.fastq.gz
+Approx 95% complete for TNBC3_R2.fastq.gz
+[WARNING]         multiqc : MultiQC Version v1.11 now available!
+[INFO   ]         multiqc : This is MultiQC v1.8
+[INFO   ]         multiqc : Template    : default
+[WARNING]         multiqc : You are running MultiQC with Python 2.7.12
+[WARNING]         multiqc : Please upgrade! MultiQC will soon drop support for Python < 3.6
+[INFO   ]         multiqc : Searching   : /data/courses/rnaseq/breastcancer_de/swu_workspace/QCres
+[INFO   ]          fastqc : Found 24 reports
+[INFO   ]         multiqc : Compressing plot data
+[INFO   ]         multiqc : Report      : multiqc_report.html
+[INFO   ]         multiqc : Data        : multiqc_data
+[INFO   ]         multiqc : MultiQC complete

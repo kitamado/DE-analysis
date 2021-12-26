@@ -10,4 +10,4 @@
 
 module add UHTS/Aligner/hisat/2.2.1
 
-hisat2-build -p 8 ../reference_genome/Homo_sapiens.GRCh38.dna.primary_assembly.fa ../reference_genome/hisat2_index/GRCh38
+hisat2-build -p 4 ../reference_genome/Homo_sapiens.GRCh38.dna.primary_assembly.fa ../reference_genome/hisat2_index/GRCh38

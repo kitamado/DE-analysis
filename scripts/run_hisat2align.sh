@@ -16,7 +16,7 @@ for r in HER2 NonTNBC Normal TNBC; do
                         -1 /data/courses/rnaseq/breastcancer_de/reads/${r}${i}_R1.fastq.gz \
                         -2 /data/courses/rnaseq/breastcancer_de/reads/${r}${i}_R2.fastq.gz \
                         -S ../bam/${r}${i}_align.sam \
-                        -p 8
+                        -p 4
         done
 done
 

@@ -64,6 +64,7 @@
 ├── Normal3_R2.fastq.gz -> /data/courses/rnaseq/breastcancer_de/reads/Normal3_R2.fastq.gz
 ├── output_QC_7412133.o
 ├── QCres_dir_tree.txt
+├── README
 ├── TNBC1_R1_fastqc.html
 ├── TNBC1_R1_fastqc.zip
 ├── TNBC1_R1.fastq.gz -> /data/courses/rnaseq/breastcancer_de/reads/TNBC1_R1.fastq.gz
@@ -83,4 +84,4 @@
 ├── TNBC3_R2_fastqc.zip
 └── TNBC3_R2.fastq.gz -> /data/courses/rnaseq/breastcancer_de/reads/TNBC3_R2.fastq.gz
 
-1 directory, 82 files
+1 directory, 83 files

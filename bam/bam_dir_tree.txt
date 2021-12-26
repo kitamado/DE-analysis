@@ -1,0 +1,21 @@
+.
+├── bam_dir_tree.txt
+├── error_hisat2align_7412138.e
+├── error_sam2bam_7412149.e
+├── HER21_align.bam
+├── HER21_align.sam
+├── HER22_align.sam
+├── HER23_align.sam
+├── NonTNBC1_align.sam
+├── NonTNBC2_align.sam
+├── NonTNBC3_align.sam
+├── Normal1_align.sam
+├── Normal2_align.sam
+├── Normal3_align.sam
+├── output_hisat2align_7412138.o
+├── output_sam2bam_7412149.o
+├── TNBC1_align.sam
+├── TNBC2_align.sam
+└── TNBC3_align.sam
+
+0 directories, 18 files

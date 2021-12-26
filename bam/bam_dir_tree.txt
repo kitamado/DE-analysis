@@ -7,30 +7,39 @@
 ├── HER21_align.bam
 ├── HER21_align.sam
 ├── HER21_align.sorted.bam
+├── HER21_align.sorted.bam.bai
 ├── HER22_align.bam
 ├── HER22_align.sam
 ├── HER22_align.sorted.bam
+├── HER22_align.sorted.bam.bai
 ├── HER23_align.bam
 ├── HER23_align.sam
 ├── HER23_align.sorted.bam
+├── HER23_align.sorted.bam.bai
 ├── NonTNBC1_align.bam
 ├── NonTNBC1_align.sam
 ├── NonTNBC1_align.sorted.bam
+├── NonTNBC1_align.sorted.bam.bai
 ├── NonTNBC2_align.bam
 ├── NonTNBC2_align.sam
 ├── NonTNBC2_align.sorted.bam
+├── NonTNBC2_align.sorted.bam.bai
 ├── NonTNBC3_align.bam
 ├── NonTNBC3_align.sam
 ├── NonTNBC3_align.sorted.bam
+├── NonTNBC3_align.sorted.bam.bai
 ├── Normal1_align.bam
 ├── Normal1_align.sam
 ├── Normal1_align.sorted.bam
+├── Normal1_align.sorted.bam.bai
 ├── Normal2_align.bam
 ├── Normal2_align.sam
 ├── Normal2_align.sorted.bam
+├── Normal2_align.sorted.bam.bai
 ├── Normal3_align.bam
 ├── Normal3_align.sam
 ├── Normal3_align.sorted.bam
+├── Normal3_align.sorted.bam.bai
 ├── output_hisat2align_7412138.o
 ├── output_indexbam_7412170.o
 ├── output_sam2bam_7412149.o
@@ -38,11 +47,14 @@
 ├── TNBC1_align.bam
 ├── TNBC1_align.sam
 ├── TNBC1_align.sorted.bam
+├── TNBC1_align.sorted.bam.bai
 ├── TNBC2_align.bam
 ├── TNBC2_align.sam
 ├── TNBC2_align.sorted.bam
+├── TNBC2_align.sorted.bam.bai
 ├── TNBC3_align.bam
 ├── TNBC3_align.sam
-└── TNBC3_align.sorted.bam
+├── TNBC3_align.sorted.bam
+└── TNBC3_align.sorted.bam.bai
 
-0 directories, 45 files
+0 directories, 57 files

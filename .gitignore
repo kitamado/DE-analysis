@@ -4,4 +4,5 @@
 /reference_genome/hisat2_index/
 /bam/*.sam
 /bam/*.bam
+/bam/*.bai
 

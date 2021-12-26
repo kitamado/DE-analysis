@@ -3,7 +3,7 @@
 #SBATCH --job-name="indexbam"
 #SBATCH --cpus-per-task=4
 #SBATCH --time=24:00:00
-#SBATCH --mem=25G
+#SBATCH --mem-per-cpu=8G
 #SBATCH --mail-user=shunyu.wu@students.unibe.ch
 #SBATCH --output=/data/courses/rnaseq/breastcancer_de/swu_workspace/bam/output_indexbam_%j.o
 #SBATCH --error=/data/courses/rnaseq/breastcancer_de/swu_workspace/bam/error_indexbam_%j.e

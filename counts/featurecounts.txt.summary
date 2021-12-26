@@ -1,0 +1,15 @@
+Status	../bam/HER21_align.sorted.bam	../bam/HER22_align.sorted.bam	../bam/HER23_align.sorted.bam	../bam/NonTNBC1_align.sorted.bam	../bam/NonTNBC2_align.sorted.bam	../bam/NonTNBC3_align.sorted.bam	../bam/Normal1_align.sorted.bam	../bam/Normal2_align.sorted.bam	../bam/Normal3_align.sorted.bam	../bam/TNBC1_align.sorted.bam	../bam/TNBC2_align.sorted.bam	../bam/TNBC3_align.sorted.bam
+Assigned	20864773	29467604	21118830	39419992	22401616	24042999	23751874	50718279	60794356	20822903	17151301	18833228
+Unassigned_Unmapped	10869021	12908684	6014769	14344761	11857077	13265392	1109158	2494466	2540708	9094747	12156130	13517858
+Unassigned_Read_Type	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MultiMapping	265429574	259967960	228911906	218312562	205415291	218202494	8414751	12704985	10003186	131747453	205019352	208995229
+Unassigned_Secondary	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NoFeatures	29180541	34285810	23439340	18500053	19695807	21746405	1820235	4649817	3068194	27244311	14250302	15159353
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Ambiguity	2865649	3336145	2938393	5989589	2964881	2980577	2498473	4318385	4845160	2247703	2206447	2063103

@@ -2,7 +2,8 @@
 /reference_genome/Homo_sapiens.GRCh38.104.gtf
 /reference_genome/Homo_sapiens.GRCh38.dna.primary_assembly.fa
 /reference_genome/hisat2_index/
-/bam/*.sam
-/bam/*.bam
-/bam/*.bai
+/bam/sams/*.sam
+/bam/sam2bam_result/*.bam
+/bam/sorted_bams/*.bam
+/bam/bam_idxs/*.bai
 

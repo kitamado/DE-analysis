@@ -2,9 +2,9 @@
 
 This workflow starts from Illumina sequencing data (fastq files). The goal is to produce lists of genes that are differentially expressed between two experimental groups, and identify gene ontology (GO) terms enriched for DE genes.
 
-## Codes
+## Codes 
 
-- All project codes are in the `/scripts`
+- All project codes are in the `/scripts` and `R_scripts` 
 
 - Run the Batch sbmission scripts in the following order:
     1. `load_module.sh`
@@ -15,6 +15,11 @@ This workflow starts from Illumina sequencing data (fastq files). The goal is to
     6. `run_sortbam.sh`
     7. `run_indexbam.sh` 
     8. `run_featureCounts.sh`
+- Then move to [DESeq2.Rmd](https://mybinder.org/v2/gh/kitamado/RNA-Seq-Differential-gene-expression-DE-analysis/HEAD?labpath=https%3A%2F%2Fgithub.com%2Fkitamado%2FRNA-Seq-Differential-gene-expression-DE-analysis%2Fblob%2Fmain%2FR_scripts%2FDESeq2.Rmd)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kitamado/RNA-Seq-Differential-gene-expression-DE-analysis/HEAD?labpath=https%3A%2F%2Fgithub.com%2Fkitamado%2FRNA-Seq-Differential-gene-expression-DE-analysis%2Fblob%2Fmain%2FR_scripts%2FDESeq2.Rmd)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/kitamado/RNA-Seq-Differential-gene-expression-DE-analysis/HEAD?labpath=https%3A%2F%2Fgithub.com%2Fkitamado%2FRNA-Seq-Differential-gene-expression-DE-analysis%2Fblob%2Fmain%2FR_scripts%2FDESeq2.Rmd
 
 
 - Final workspaces(results for step 2-4, in IBU cluster) directory structure as follows:

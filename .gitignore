@@ -7,6 +7,7 @@
 /bam/sorted_bams/*.bam
 /bam/bam_idxs/*.bai
 /R_scripts/*.Rproj
-/R_scripts/*.user
+/R_scripts/*.user/
 /R_scripts/featurecounts.txt
+/R_scripts/.Rdata
 .Rproj.user

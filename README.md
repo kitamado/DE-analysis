@@ -15,12 +15,7 @@ This workflow starts from Illumina sequencing data (fastq files). The goal is to
     6. `run_sortbam.sh`
     7. `run_indexbam.sh` 
     8. `run_featureCounts.sh`
-- Then move to [DESeq2.Rmd](https://mybinder.org/v2/gh/kitamado/RNA-Seq-Differential-gene-expression-DE-analysis/HEAD?labpath=https%3A%2F%2Fgithub.com%2Fkitamado%2FRNA-Seq-Differential-gene-expression-DE-analysis%2Fblob%2Fmain%2FR_scripts%2FDESeq2.Rmd)
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kitamado/RNA-Seq-Differential-gene-expression-DE-analysis/HEAD?labpath=https%3A%2F%2Fgithub.com%2Fkitamado%2FRNA-Seq-Differential-gene-expression-DE-analysis%2Fblob%2Fmain%2FR_scripts%2FDESeq2.Rmd)
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/kitamado/RNA-Seq-Differential-gene-expression-DE-analysis/HEAD?labpath=https%3A%2F%2Fgithub.com%2Fkitamado%2FRNA-Seq-Differential-gene-expression-DE-analysis%2Fblob%2Fmain%2FR_scripts%2FDESeq2.Rmd
-
+- Then move to `DESeq2.Rmd` [RPubs-link](file:///D:/Documents/workspace/RNA-Seq-Differential-gene-expression-DE-analysis/R_scripts/DESeq2.html)
 
 - Final workspaces(results for step 2-4, in IBU cluster) directory structure as follows:
 

@@ -15,7 +15,7 @@ This workflow starts from Illumina sequencing data (fastq files). The goal is to
     6. `run_sortbam.sh`
     7. `run_indexbam.sh` 
     8. `run_featureCounts.sh`
-- Then move to `DESeq2.Rmd` [RPubs-link](file:///D:/Documents/workspace/RNA-Seq-Differential-gene-expression-DE-analysis/R_scripts/DESeq2.html)
+- Then move to `DESeq2.Rmd`  [RPubs-link](https://rpubs.com/sywu/DESeq2)
 
 - Final workspaces(results for step 2-4, in IBU cluster) directory structure as follows:
 

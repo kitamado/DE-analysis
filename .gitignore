@@ -10,4 +10,5 @@
 /R_scripts/*.user/
 /R_scripts/featurecounts.txt
 /R_scripts/.Rdata
+/report/fig/*
 .Rproj.user

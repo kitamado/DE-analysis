@@ -1,10 +1,10 @@
 # RNA-Seq-Differential-gene-expression-DE-analysis
 
-This workflow starts from Illumina sequencing data (fastq files). The goal is to produce lists of genes that are differentially expressed between two experimental groups, and identify gene ontology (GO) terms enriched for DE genes.
+This workflow starts from Illumina sequencing data (fastq files). The goal is to produce lists of genes that are differentially expressed between two experimental groups, and identify gene ontology (GO) terms enriched for DE genes. Detailed tutorials see [here](https://kitamado.github.io/DE-analysis/).
 
 ## Codes 
 
-- All project codes are in the `/scripts` and `R_scripts` 
+- All project codes are in the `/scripts` and `/R_scripts` 
 
 - Run the Batch sbmission scripts in the following order:
     1. `load_module.sh`
@@ -17,7 +17,11 @@ This workflow starts from Illumina sequencing data (fastq files). The goal is to
     8. `run_featureCounts.sh`
 - Then move to `./R_scripts/DESeq2.Rmd` or [RPubs-link](https://rpubs.com/sywu/DESeq2)
 
-- Final workspaces(results for step 2-4, in IBU cluster) directory structure as follows: (large data files still on server, only results synchronized)
+## Report
+ [Overleaf project](https://www.overleaf.com/read/wndtkxgggmwq).
+
+## MISC
+-  Workspaces structure for step 2-4, in IBU cluster directory: (large data files still on server, only results synchronized)
 
     ```
     .
